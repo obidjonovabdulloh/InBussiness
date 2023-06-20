@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cace79c.css",
+    "main.js": "/static/js/main.f9b18938.js",
+    "static/media/human.png": "/static/media/human.109956f0413bc7aec58c.png",
+    "static/media/Frame2.png": "/static/media/Frame2.dbdb0df0e8b5d2e2ebb1.png",
+    "static/media/team.png": "/static/media/team.0a0f322724b07a2f0a0c.png",
+    "static/media/user.png": "/static/media/user.43426f0f920446086906.png",
+    "static/media/userimg.png": "/static/media/userimg.d38322b5dd0aed34de04.png",
+    "static/media/User.png": "/static/media/User.459ecb10e0df40b635f1.png",
+    "static/media/city.png": "/static/media/city.b5d19de15153254796c0.png",
+    "static/media/Alurra.png": "/static/media/Alurra.bc17d9de9e77aa52386e.png",
+    "static/media/interview.png": "/static/media/interview.9792e4d9bcc422fcdc95.png",
+    "static/media/addimg.png": "/static/media/addimg.fdd3653a2c3353f066cc.png",
+    "static/media/cat.png": "/static/media/cat.c5815cdc3a41054b4f2f.png",
+    "static/media/backImg.png": "/static/media/backImg.3c4194b6a7184bc1d129.png",
+    "static/media/back.png": "/static/media/back.cb9cb22c8cb382b754f1.png",
+    "static/media/logo.svg": "/static/media/logo.f7f80ff18803a979a121073408577dc5.svg",
+    "static/media/Close.svg": "/static/media/Close.231855620cd351dfa9fe6e3c1c1dceed.svg",
+    "static/media/telegram.svg": "/static/media/telegram.879b3f6f60f75d3b5f9d5c8a506f1db5.svg",
+    "index.html": "/index.html",
+    "static/media/insta.svg": "/static/media/insta.2803ced157cd0a7fd7129e630afaf495.svg",
+    "static/media/instagram.svg": "/static/media/instagram.fed1cdba1f672b085e12502744a4834f.svg",
+    "static/media/uzbekistan-flag-icon.svg": "/static/media/uzbekistan-flag-icon.7a31f1e5de093a5fd075cd357e8d278c.svg",
+    "static/media/Register.svg": "/static/media/Register.ee30870dd5a8608c60bcf42c7521b313.svg",
+    "static/media/facebook.svg": "/static/media/facebook.8f526b4a558dcdedf44541c5314402f6.svg",
+    "static/media/hamburger.svg": "/static/media/hamburger.ec9aacbade08776071ab5a9fd1d57a1c.svg",
+    "main.2cace79c.css.map": "/static/css/main.2cace79c.css.map",
+    "main.f9b18938.js.map": "/static/js/main.f9b18938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cace79c.css",
+    "static/js/main.f9b18938.js"
+  ]
+}
